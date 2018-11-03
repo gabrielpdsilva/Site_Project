@@ -111,7 +111,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #fff;          /*Cor do título*/
 }
 
 #mainNav .navbar-nav {
@@ -348,9 +348,9 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-image: url("https://i.imgur.com/qbalNbo.png") !important;
+  background-image: url("https://i.imgur.com/h2QB6gM.jpg") !important;    /*imagem anterior: https://i.imgur.com/qbalNbo.png*/
   background-repeat: no-repeat;
-  background-size: 1800px 1500px;
+  background-size: 2400px 1600px;
 }
 
 .bg-secondary {
