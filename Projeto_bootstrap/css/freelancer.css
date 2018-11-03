@@ -350,7 +350,7 @@ a:focus, a:hover, a:active {
 .bg-primary {
   background-image: url("https://i.imgur.com/qbalNbo.png") !important;
   background-repeat: no-repeat;
-  background-size: 1800px 900px;
+  background-size: 1800px 1500px;
 }
 
 .bg-secondary {
