@@ -332,7 +332,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #0f1a33;
 }
 
 a {
@@ -348,9 +348,9 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-image: url("https://i.imgur.com/h2QB6gM.jpg") !important;    /*imagem anterior: https://i.imgur.com/qbalNbo.png*/
+  background-image: url("https://i.imgur.com/A8Aal3y.jpg") !important;   /*créditos da foto -> https://pixabay.com/pt/bandeira-eua-bandeira-ao-vento-1133963/ <- |  imagens anteriores: https://i.imgur.com/qbalNbo.png ... https://i.imgur.com/h2QB6gM.jpg */
   background-repeat: no-repeat;
-  background-size: 2400px 1600px;
+  background-size: 2000px 1600px;
 }
 
 .bg-secondary {
