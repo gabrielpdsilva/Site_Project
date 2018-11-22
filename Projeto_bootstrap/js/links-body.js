@@ -3,3 +3,8 @@ function onBody(link_reference){
 
     window.open(vet_links[link_reference]);
 }
+function blog(link_reference){
+	var verblog =["http://proficientenglish.blogspot.com/"]; // blog do professor
+	window.open(verblog[link_reference]);
+	
+}
